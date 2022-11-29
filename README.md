@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoSchutz
-- 👀 I’m interested in HTML, CSS, JavaScript, C#, SQL.
+- 👀 I work with HTML, CSS, JavaScript, SQL and Java.
 - 🌱 I’m currently learning System Analysis and Development.
 - 📫 How to reach me: joniwesspf@hotmail/icloud 
 
