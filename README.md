@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaoSchutz
+- 👋 Hi, I’m @JoaoSchutz, Data Analyst on VHL Sistemas.
 - 👀 I work with HTML, CSS, JavaScript, SQL, Java and Shell Script.
 - 🌱 I’m currently learning System Analysis and Development.
 - 📫 How to reach me: joniwesspf@hotmail/icloud 
