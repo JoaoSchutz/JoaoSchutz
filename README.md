@@ -3,7 +3,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSchutz&show_icons=true&theme=dracula&count_private=true)
 
-## Distribuições que sou familiarizado do <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+## Distribuições do <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> que sou familiarizado:
 
 <div style="display: inline_block">
   <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
