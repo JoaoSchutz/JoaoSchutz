@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @JoaoSchutz, Data Analyst on VHL Sistemas.
-- 👀 I work with HTML, CSS, JavaScript, SQL, Java and Shell Script.
-- 🌱 I’m currently learning System Analysis and Development.
-- 📫 How to reach me: joniwesspf@hotmail/icloud 
-
-
 ## Hello World! I'm João Schütz, Data Analyst on VHL Sistemas. 🖐️
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Coffops)
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSchutz&show_icons=true&theme=dracula&count_private=true)
 
 ## Distribuições que sou familiarizado do <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
