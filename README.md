@@ -22,6 +22,12 @@
   <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div><br/>
 
+### Últimos videos da @Coffops:
+- [CPU Steal, entenda o que é e como você pode evitar problemas nos seus servidores virtuais](https://www.youtube.com/watch?v=WaxGg4WaoQI)<br/>
+- [Comandos para administração de Servidores Linux PARTE 3](https://www.youtube.com/watch?v=ctrFBuSN19Q)<br/>
+- [Conheça alguns comandos básicos para manipulação de diretórios e arquivos no Linux PARTE 1](https://www.youtube.com/watch?v=xa6aeaue_9E)<br/>
+- [Entenda a estrutura de diretórios do Linux, /bin, /etc/, /home e outros!](https://www.youtube.com/watch?v=1zA-hQptsZM)<br/>
+
 <!---
 JoaoSchutz/JoaoSchutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
